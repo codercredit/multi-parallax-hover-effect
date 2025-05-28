@@ -8,7 +8,7 @@ This project demonstrates how to apply individual parallax movements to multiple
 
 ## 🔁 Demo Preview
 
-![Demo Preview](https://1.envato.market/9LxkL3)
+### 🔁 [Demo Preview](https://1.envato.market/9LxkL3)
 
 ---
 
