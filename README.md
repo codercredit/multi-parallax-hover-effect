@@ -6,8 +6,6 @@ This project demonstrates how to apply individual parallax movements to multiple
 
 > 🔗 Live Blog Tutorial: [How to Create a Smooth Parallax Hover Effect with Multiple Elements](https://blog.mkk360.com/how-to-create-a-smooth-parallax-hover-effect-with-multiple-elements-in-one-container/)
 
-## 🔁 Demo Preview
-
 ### 🔁 [Demo Preview](https://1.envato.market/9LxkL3)
 
 ---
